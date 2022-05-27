@@ -1,0 +1,22 @@
+div {
+  background-color: rgb(255, 192, 7);
+}
+h1,
+p {
+  color: black;
+}
+h1 {
+  font-family: "Playfair Display", serif;
+  font: 34.3 px;
+  font-weight: bold;
+}
+p {
+  font-family: "Poppins", sans-serif;
+  font: 16px;
+  color: rgb(67, 61, 43);
+}
+i {
+  font-weight: 400;
+  font-family: "Font Awesome 5 Brands";
+  font-style: normal;
+}
